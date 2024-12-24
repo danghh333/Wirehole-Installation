@@ -11,11 +11,11 @@ Install `git` first in case you did not<br />
     `./install.sh`<br />
 3. Configure the Wirehole server<br />
 `cd wirehole-ui`<br />
-   Edit the file with your Public IP and password<br />
+   Edit `docker-compose.yml`file with your Public IP and password<br />
     `nano docker-compose.yml`<br />
     `WG_HOST=your_public_ip`<br />
     `PASSWORD=your_password`<br />
-Save and exit
+    Save and exit
 
 4. Start the Wirehole server<br />
 `docker-compose up -d`<br />
