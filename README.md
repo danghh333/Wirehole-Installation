@@ -1,7 +1,7 @@
 # Wirehole-Installation
 Private VPN server with adblocker<br />
 
-1. Clone the repository
+1. Clone the repository<br />
 Install `git` first in case you did not<br />
 `sudo apt-get install -y git`<br />
 `git clone https://github.com/danghh333/Wirehole-Installation.git`<br />
